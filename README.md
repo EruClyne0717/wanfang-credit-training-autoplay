@@ -35,11 +35,14 @@ Python + Selenium 驱动真实浏览器，不伪造接口数据、不改服务�
 
 ### 方式一：exe（免环境）
 
-1. 下载 `dist/万方刷课.exe`
-2. 双击运行，活动地址已预填，按需改
-3. 点「开始刷课」，浏览器弹出后登录一次，程序自动接管
+下载 [`wanfang-shuake-v1.0.0.exe`](https://github.com/EruClyne0717/wanfang-credit-training-autoplay/releases/latest/download/wanfang-shuake-v1.0.0.exe)（或仓库内 `dist/万方刷课.exe`）：
 
-### 方式二：源码
+1. 双击运行，活动地址已预填，按需改
+2. 点「开始刷课」，浏览器弹出后登录一次，程序自动接管
+
+### 方式二：源码 + 启动.bat
+
+下载 [`wanfang-shuake-v1.0.0-source.zip`](https://github.com/EruClyne0717/wanfang-credit-training-autoplay/releases/latest/download/wanfang-shuake-v1.0.0-source.zip)，或直接克隆本仓库：
 
 ```bash
 pip install -r requirements.txt
