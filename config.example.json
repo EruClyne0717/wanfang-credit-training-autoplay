@@ -1,0 +1,15 @@
+{
+  "url": "https://cx.wanfangdata.com.cn/e-training/activity/info?aId=24fc4810-f096-4f49-b039-8682c5e2c388",
+  "browser": "edge",
+  "driver_path": "",
+  "phone": "",
+  "password": "",
+  "rate": 1,
+  "poll": 3,
+  "need_duration": true,
+  "duration_threshold": 90,
+  "mute": true,
+  "close_browser": false,
+  "login_timeout": 600,
+  "record_dir": ""
+}

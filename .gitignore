@@ -1,0 +1,17 @@
+# 本地配置（含账号密码，切勿提交）
+config.json
+
+# 刷课记录
+record/
+
+# 诊断文件
+debug_*.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# 打包中间产物
+build/
+*.spec
